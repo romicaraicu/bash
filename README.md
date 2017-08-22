@@ -26,3 +26,9 @@ $?  0
 *You passed 3 parameters to your script.*
 ```
 ------
+### Repeating an argument
+```bash
+[root@srv ~]$ mkdir /path/to/exampledir
+[root@srv ~]$ cd !$
+```
+------
