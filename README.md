@@ -35,4 +35,5 @@ $?  0
 ### Sources
 * [LinuxAcademy.com](https://linuxacademy.com/blog/linux/tutorial-the-best-tips-tricks-for-bash-explained/)
 * [Coderwall.com](https://coderwall.com/p/85jnpq/bash-built-in-variables)
+* [Parameter expansion](http://wiki.bash-hackers.org/syntax/pe)
 ------
